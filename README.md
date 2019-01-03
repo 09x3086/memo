@@ -7,3 +7,6 @@
 ・Nodejs  
 ・PostgreSQL  
 ・MongoDB  
+
+
+### ■Angular
