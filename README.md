@@ -1,7 +1,7 @@
 # Develop Web Application
 
 ## ■dev_environment
-・Apache 2.4.37 
+・Apache 2.4.37  
 ・Angular 6.5.0-next.0  
 ・PHP 7.3.0  
 ・Nodejs 11.6.0  
