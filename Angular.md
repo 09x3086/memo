@@ -1,5 +1,5 @@
 
-```cmd:create_class
+```cmd:create_class 
 ng generate class XXX
 ```
 
